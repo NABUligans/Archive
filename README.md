@@ -1,3 +1,3 @@
-# Welcome to the NABU Community Wiki
+# Welcome to the Benevolent Societies NABU Archive
 
-### Click [HERE](https://github.com/NABUligans/CommunityWiki/wiki) for NABU Knowledge
+### Click [HERE](https://github.com/NABUligans/Archive/wiki) for NABU Knowledge
